@@ -1,10 +1,10 @@
-package com.marcosalarcon.springbootcsrf;
+package com.marcosalarcon.springbootattacker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootCsrfApplicationTests {
+class SpringBootAttackerApplicationTests {
 
     @Test
     void contextLoads() {

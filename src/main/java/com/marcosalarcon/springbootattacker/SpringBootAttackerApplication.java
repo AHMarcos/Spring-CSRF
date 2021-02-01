@@ -1,14 +1,13 @@
-package com.marcosalarcon.springbootcsrf;
+package com.marcosalarcon.springbootattacker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootCsrfApplication {
+public class SpringBootAttackerApplication {
 
     public static void main(String[] args) {
-
-        SpringApplication.run(SpringBootCsrfApplication.class);
+        SpringApplication.run(SpringBootAttackerApplication.class, args);
     }
 
 }
